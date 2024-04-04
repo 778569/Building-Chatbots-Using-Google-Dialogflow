@@ -11,3 +11,16 @@ This Repo is about an AI-powered tool for creating text-based conversational int
 * Input and output context
 * Creating a fulfillment
 * Integrating a chatbot with your website
+
+
+## Dialogflow
+
+* Need google account.
+* Enterprise edition- Not free
+* Standerd edition - most featurtes are free. but do not go over quota limit.
+* Dialogflow involves mostly configuration via a user interface.
+* Google dialog flow continuouslt updates dialogflow user interface.
+* Screen may have been updated
+
+
+
