@@ -38,7 +38,10 @@ This Repo is about an AI-powered tool for creating text-based conversational int
 
 ### Architecture 
 
-dialog flow sit in the middle
+![agents-dialogflow](https://github.com/778569/Building-Chatbots-Using-Google-Dialogflow/assets/52319671/84c0e454-3977-43f8-b9f5-e207b1a76c42)
+
+<br><br>
+dialog flow sit in the middlebr
 Users interface with it in a multitude of channels including apps, messengers, voice and smart home devices.
 Dialog flow translate natural language into machine readable data using ML model that are tained by examples that you provide.
 Ones understanding waht users are requesting it can hand off to your backend services and APIs. which can then makes things happen to service the users request.
