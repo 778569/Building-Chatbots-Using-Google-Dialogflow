@@ -66,6 +66,17 @@ Summary - Dialogflow simplifies the process of building conversational experienc
 
 * Custome entities this included entitiy types like - (Pizza size, ingredients, Crust Type)
 
+## Context and follow-up Intents
+
+* Input and output context will be created
+* Have to go one part of the convercation to another
+* Follow-up intents created fro conversational flow.
+
+## Fulfillment
+
+* Use fulfi;;ment to calculate the cost of the order.
+* Power of Natural language Understanding and some help of ML
+
 
 
 
