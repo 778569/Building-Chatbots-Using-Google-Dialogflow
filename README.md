@@ -48,6 +48,25 @@ Ones understanding waht users are requesting it can hand off to your backend ser
 you can call an API, query or insert a record into a database and integrate with third party tools like your CRM system.
 Summary - Dialogflow simplifies the process of building conversational experiences for ChatBox.
 
+### Pizza Chatbot
+
+1. Building a pizza chatbot
+2. Take pizza orders
+3. Get details such as size, ingredients, toppings and crust
+4. Getcustomer contact information
+
+## Steps
+
+# Intents
+* Agent will house intents and other components. (Parent of our chat bot)
+* Also have one major intents. - OrderPizzaIntent
+* This intent of the responcible for collection information about a pizza order.
+
+  ## Entites and Parameters
+
+* Custome entities this included entitiy types like - (Pizza size, ingredients, Crust Type)
+
+
 
 
 
